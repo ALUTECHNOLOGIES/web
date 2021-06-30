@@ -1,8 +1,8 @@
 <?php
-header('content-type: text/xml');
+header('Content-Type: audio/mpeg');
 echo "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n";
 ?>
 <Response>
-	<Say> This is Alu Corporate communications </Say>
+	<Play> https://alutechnologies.github.io/web/diamond.mp3 </Play>
 	
 </Response>
