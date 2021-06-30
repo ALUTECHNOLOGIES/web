@@ -1,4 +1,4 @@
-Content-Type:audio/mpeg3
+Content-Type:text/xml
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Play>https://alutechnologies.github.io/web/diamond.mp3</Play>
